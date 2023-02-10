@@ -9,16 +9,16 @@ The Technologies and Languages used in this project
 
 Steps to run the project
 
-1- clone the git.
-2- create database named "milele_db"
-3- import SQL file located at "back-end/milele_db.sql"
-4- run "cd back-end"
-5- run "npm i"
-6- run "npm start"
-7- run "cd.. "
-8- run "cd front-end"
-9- run "npm i"
-10- run "npm start"
+- clone the git.
+- create database named "milele_db"
+- import SQL file located at "back-end/milele_db.sql"
+- run "cd back-end"
+- run "npm i"
+- run "npm start"
+- run "cd.. "
+- run "cd front-end"
+- run "npm i"
+- run "npm start"
 
 
 Thanks a lot
