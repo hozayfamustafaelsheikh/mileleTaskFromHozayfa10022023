@@ -9,7 +9,7 @@ The Technologies and Languages used in this project
 
 Steps to run the project
 
-- clone the git.
+- clone the git by run "git clone https://github.com/hozayfamustafaelsheikh/mileleTaskFromHozayfa10022023.git".
 - create database named "milele_db"
 - import SQL file located at "back-end/milele_db.sql"
 - run "cd back-end"
