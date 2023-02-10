@@ -1,11 +1,11 @@
 The Technologies and Languages used in this project
 
-1- Javascript
-2- HTML
-3- CSS & Bootstrap
-4- ReactJs for Front-End
-5- NodeJs for Back-End
-6- MySQL for Database
+- Javascript
+- HTML
+- CSS & Bootstrap
+- ReactJs for Front-End
+- NodeJs for Back-End
+- MySQL for Database
 
 Steps to run the project
 
