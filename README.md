@@ -16,7 +16,7 @@ Steps to run the project
 - run "cd back-end"
 - run "npm i"
 - run "npm start"
-- run "cd.. "
+- open new terminal
 - run "cd front-end"
 - run "npm i"
 - run "npm start"
